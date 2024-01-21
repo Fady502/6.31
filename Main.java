@@ -2,7 +2,7 @@ import java.util.Scanner;
 // Fady Zaki SDEV200 1/20/24
 public class Main {
 
-    public static void main(String[] args) {
+    public static void Main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter a credit card number as a long integer: ");
